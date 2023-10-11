@@ -57,11 +57,11 @@ require (
 	github.com/willf/bitset v0.0.0-20181014161241-71fa2377963f // indirect
 	go.etcd.io/etcd v0.0.0-20190228193606-a943ad0ee4c9
 	go.opencensus.io v0.21.0
-	golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550
-	golang.org/x/net v0.0.0-20200324143707-d3edc9973b7e
-	golang.org/x/sync v0.0.0-20190423024810-112230192c58
-	golang.org/x/sys v0.0.0-20200420163511-1957bb5e6d1f
-	golang.org/x/text v0.3.2
+	golang.org/x/crypto v0.14.0
+	golang.org/x/net v0.17.0
+	golang.org/x/sync v0.1.0
+	golang.org/x/sys v0.13.0
+	golang.org/x/text v0.13.0
 	google.golang.org/genproto v0.0.0-20190516172635-bb713bdc0e52 // indirect
 	google.golang.org/grpc v1.23.0
 	gopkg.in/DataDog/dd-trace-go.v1 v1.13.1 // indirect
