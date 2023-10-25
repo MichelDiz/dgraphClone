@@ -28,12 +28,12 @@ require (
 	github.com/go-sql-driver/mysql v0.0.0-20190330032241-c0f6b444ad8f
 	github.com/gogo/protobuf v1.3.1
 	github.com/golang/geo v0.0.0-20170810003146-31fb0106dc4a
-	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
-	github.com/golang/protobuf v1.3.5
-	github.com/golang/snappy v0.0.1
+	github.com/golang/glog v1.1.0
+	github.com/golang/protobuf v1.5.3
+	github.com/golang/snappy v0.0.4
 	github.com/google/codesearch v1.0.0
-	github.com/google/go-cmp v0.4.0
-	github.com/google/uuid v1.0.0
+	github.com/google/go-cmp v0.5.9
+	github.com/google/uuid v1.3.0
 	github.com/gorilla/websocket v1.4.1
 	github.com/graph-gophers/graphql-transport-ws v0.0.0-20190611222414-40c048432299
 	github.com/minio/minio-go v0.0.0-20181109183348-774475480ffe
@@ -43,27 +43,25 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/pkg/profile v1.2.1
 	github.com/prometheus/client_golang v0.9.3-0.20190127221311-3c4408c8b829
-	github.com/prometheus/client_model v0.0.0-20190129233127-fd36f4220a90 // indirect
 	github.com/prometheus/common v0.4.1 // indirect
 	github.com/prometheus/procfs v0.0.0-20190517135640-51af30a78b0e // indirect
 	github.com/spf13/cast v1.3.0
 	github.com/spf13/cobra v0.0.5
 	github.com/spf13/pflag v1.0.3
 	github.com/spf13/viper v1.3.2
-	github.com/stretchr/testify v1.4.0
+	github.com/stretchr/testify v1.8.3
 	github.com/tinylib/msgp v0.0.0-20190103190839-ade0ca4ace05 // indirect
 	github.com/twpayne/go-geom v1.0.5
 	github.com/vektah/gqlparser/v2 v2.0.1
 	github.com/willf/bitset v0.0.0-20181014161241-71fa2377963f // indirect
 	go.etcd.io/etcd v0.0.0-20190228193606-a943ad0ee4c9
-	go.opencensus.io v0.21.0
-	golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550
-	golang.org/x/net v0.0.0-20200324143707-d3edc9973b7e
-	golang.org/x/sync v0.0.0-20190423024810-112230192c58
-	golang.org/x/sys v0.0.0-20200420163511-1957bb5e6d1f
-	golang.org/x/text v0.3.2
-	google.golang.org/genproto v0.0.0-20190516172635-bb713bdc0e52 // indirect
-	google.golang.org/grpc v1.23.0
+	go.opencensus.io v0.24.0
+	golang.org/x/crypto v0.0.0-20211108221036-ceb1ce70b4fa
+	golang.org/x/net v0.9.0
+	golang.org/x/sync v0.1.0
+	golang.org/x/sys v0.7.0
+	golang.org/x/text v0.9.0
+	google.golang.org/grpc v1.56.3
 	gopkg.in/DataDog/dd-trace-go.v1 v1.13.1 // indirect
 	gopkg.in/ini.v1 v1.48.0 // indirect
 	gopkg.in/yaml.v2 v2.2.4
